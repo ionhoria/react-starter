@@ -1,3 +1,4 @@
 import React from 'react';
+import './App.css';
 
-export default () => <div>App</div>;
+export default () => <div className="app">App</div>;
